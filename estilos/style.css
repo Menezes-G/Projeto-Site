@@ -4,11 +4,11 @@ h2{
 }
 
 body{
-    background-color: gray;
+    background-color: rgb(222, 228, 144);
 }
 
 main{
-    background-color: gray;
+    background-color: rgb(222, 228, 144);
     width: 500px;
     margin: auto;
     padding: 10px;
