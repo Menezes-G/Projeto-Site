@@ -4,11 +4,11 @@ h2{
 }
 
 body{
-    background-color: rgb(222, 228, 144);
+    background-color: rgb(228, 144, 207);
 }
 
 main{
-    background-color: rgb(222, 228, 144);
+    background-color: rgba(228, 144, 196, 0.74);
     width: 500px;
     margin: auto;
     padding: 10px;
